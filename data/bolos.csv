@@ -1,2 +1,7 @@
-name,unit_id,mark,story,book,author,tactical_role,ai_class
-Lenny,LNE,XXVIII,The Last Command,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Guardian,Full-sentience
+name,unit_id,mark,story,book,author,tactical_role,ai_class,doctrine_role,ethical_autonomy
+Lenny,LNE,XXVIII,The Last Command,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Guardian,Full-sentience,Civilizational protector,High
+Markee,#27A22245,III,Combat Unit,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Assault,Semi-autonomous,Tactical unit,Low
+Caesar,CSR,XX,The Last Command,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Command-Assault,Autonomous,Command support,Medium
+Casey,KCC-549,XXX,Bolo!,Bolo!,David Weber,Command,Full-sentience,Fleet coordination,High
+Sherman,SHM,XXXIII,Bolo Brigade,Bolo Brigade,Multiple,Siege,Full-sentience,Planetary assault,Medium
+Lucy,LKT,XLIV,Honor of the Regiment,Honor of the Regiment,John Ringo,Fortress,Post-human,Planetary defense,Very High

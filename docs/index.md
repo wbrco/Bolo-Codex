@@ -1,3 +1,3 @@
 # Bolo Codex
 
-Welcome to the Bolo Codex reference archive.
+Master index of the Bolo universe archive.

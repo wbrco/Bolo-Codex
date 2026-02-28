@@ -1,3 +1,7 @@
 # Anthology Index
 
-Anthology references.
+Bolo Brigade
+Bolo Strike
+Bolo!
+Honor of the Regiment
+Rogue Bolo

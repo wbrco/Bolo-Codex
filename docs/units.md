@@ -1,3 +1,3 @@
 # Bolo Units
 
-Named Bolo units.
+Named and catalogued Bolo units.

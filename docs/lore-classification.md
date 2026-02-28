@@ -1,3 +1,3 @@
 # Lore Classification
 
-AI and doctrine classification.
+AI classes, doctrine roles, ethical autonomy.

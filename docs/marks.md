@@ -1,3 +1,3 @@
 # Bolo Marks
 
-Reference of Bolo Marks.
+Reference guide for all known Bolo Marks.

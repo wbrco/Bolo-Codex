@@ -1,3 +1,5 @@
 # Bolo Codex
 
-Structured archive for the Bolo universe.
+Complete structured lore archive for the Bolo universe.
+
+Includes canon, shared-universe, and reference datasets.

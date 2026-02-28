@@ -1,3 +1,3 @@
-# Stories Index
+# Story Index
 
-Story references.
+Cross reference of stories and Bolos.
