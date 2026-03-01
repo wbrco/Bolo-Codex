@@ -1,3 +1,3 @@
 # Bolo Units
 
-Named and catalogued Bolo units.
+Complete unit registry.

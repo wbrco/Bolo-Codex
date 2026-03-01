@@ -1,7 +1,13 @@
 name,unit_id,mark,story,book,author,tactical_role,ai_class,doctrine_role,ethical_autonomy
-Lenny,LNE,XXVIII,The Last Command,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Guardian,Full-sentience,Civilizational protector,High
-Markee,#27A22245,III,Combat Unit,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Assault,Semi-autonomous,Tactical unit,Low
-Caesar,CSR,XX,The Last Command,Bolo: Annals of the Dinochrome Brigade,Keith Laumer,Command-Assault,Autonomous,Command support,Medium
+Lenny,LNE,XXVIII,The Last Command,Annals of the Dinochrome Brigade,Keith Laumer,Guardian,Full-sentience,Civilizational protector,High
+Lazy,28/G-179-LAZ,XXVIII,Rogue Bolo,Annals of the Dinochrome Brigade,Keith Laumer,Assault,Full-sentience,Tactical unit,High
+Benjy,28/G-862-BNJ,XXVIII,Rogue Bolo,Annals of the Dinochrome Brigade,Keith Laumer,Assault,Full-sentience,Tactical unit,High
+Titan,TTN,XXVIII,Rogue Bolo,Annals of the Dinochrome Brigade,Keith Laumer,Siege,Full-sentience,Planetary assault,Medium
+Rampart,RPT,XXVIII,Rogue Bolo,Annals of the Dinochrome Brigade,Keith Laumer,Siege,Full-sentience,Planetary defense,Medium
+Markee,#27A22245,III,Combat Unit,Annals of the Dinochrome Brigade,Keith Laumer,Assault,Semi-autonomous,Tactical unit,Low
+Caesar,CSR,XX,The Last Command,Annals of the Dinochrome Brigade,Keith Laumer,Command-Assault,Autonomous,Command support,Medium
+Denny,DNE,XX,Courier,Annals of the Dinochrome Brigade,Keith Laumer,Scout,Autonomous,Courier support,Medium
+Digger,DGR,XX,Courier,Annals of the Dinochrome Brigade,Keith Laumer,Scout,Autonomous,Courier support,Medium
+Jason,JSN,XX,Courier,Annals of the Dinochrome Brigade,Keith Laumer,Scout,Autonomous,Courier support,Medium
 Casey,KCC-549,XXX,Bolo!,Bolo!,David Weber,Command,Full-sentience,Fleet coordination,High
-Sherman,SHM,XXXIII,Bolo Brigade,Bolo Brigade,Multiple,Siege,Full-sentience,Planetary assault,Medium
-Lucy,LKT,XLIV,Honor of the Regiment,Honor of the Regiment,John Ringo,Fortress,Post-human,Planetary defense,Very High
+Lucy,LKT,XLIV,Watch on the Wall,Honor of the Regiment,John Ringo,Fortress,Post-human,Planetary defense,Very High
